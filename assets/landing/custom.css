@@ -1,0 +1,73 @@
+.cs-w-100{
+	width:100%;
+}
+.cs-d-none{
+	display: none;
+}
+.cs-d-inline{
+	display: inline;
+}
+.cs-d-block{
+	display: block;
+}
+.cs-video-block{
+	top:120px;
+}
+.cs-mega-icon{
+	font-size: 300px;
+}
+.cs-testimonial-image{
+	max-width: 150px;
+	max-height: 150px;
+}
+.cs-use-case-heading{
+	font-size: 25px;
+}
+.cs-testimonial-body{
+	font-size: 22px;
+}
+#cs-dark-toggle{
+	display: none !important;
+}
+.cs-top-1\/3{
+  top: 33%;
+}
+.cs-icon-lg{
+	font-size: 50px !important;
+}
+.cs-icon-lg-container:hover .cs-icon-lg, .dark .cs-icon-lg{
+	color:#fff;
+}
+.cs-price-button{
+	padding: 10px 15px;
+}
+#package_price,.package_price{
+	font-size: 30px;
+}
+
+
+#policy-page h4.text-base{
+	font-size: 25px;
+}
+#policy-page p.text-base{
+	font-size: 18px;
+	line-height: 30px;
+}
+.txt-type{
+	color:orange;
+}
+.dark .title{
+	background: linear-gradient(
+      180deg,
+      rgba(74, 108, 247, 0.4) 0%,
+      rgba(74, 108, 247, 0) 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    opacity: 0.8;
+}
+.title{	
+    text-transform: uppercase;
+}

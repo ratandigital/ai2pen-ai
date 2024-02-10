@@ -1,0 +1,35 @@
+.modal .modal-dialog .modal-content .modal-body{
+    padding: 10px;
+}
+@media screen and (min-width: 1400px) {
+    .modal {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        overflow: auto;
+    }
+
+    .modal-dialog {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        margin: auto;
+        width: 50%;
+        height: 80%;
+    }
+
+    .modal-dialog {
+        margin-right: 0 !important;
+        margin-top: 0 !important;
+        height: 100%;
+    }
+    .modal-content {
+        height: auto;
+        min-height: 100%;
+        border-radius: 0;
+    }
+}

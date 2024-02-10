@@ -1,0 +1,5 @@
+@media (min-width: 992px)
+.sidebar-fixed.sidebar-icon-only .main-panel {
+    margin-right: 70px !important;
+    margin-left: 0 !important;
+}

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a82ef5aa-bb4f-4aaa-88fb-a39c9e276af5" name="Default Changelist" comment="app_n">
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/docs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/dynamic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/openai/template-lang.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Helpers/Custom.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/Custom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Multilanguage.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Multilanguage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Template.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/Responder profile/active_campaign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/Responder profile/auto_responder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/Responder profile/mailchimp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/Responder profile/mautic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/Responder profile/sendinblue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team/create_team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team/team_mebers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team/team_member_created.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team_role/a_team_role_created.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team_role/create_team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/docs/images/integrations/team_role/create_team_role.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/pages/openai/template.template-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/pages/openai/template.template-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/pages/openai/tools.search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/pages/openai/tools.search-panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/translation.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/translation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/member.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/member.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/misc.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/misc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/system.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/system.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/docs/administration.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/docs/administration.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/docs/installation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/docs/installation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/docs/tools.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/docs/tools.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/include/auth-variables.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/include/auth-variables.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/installation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/installation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/openai/template/template-modal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/openai/template/template-modal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/openai/tools/search-panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/openai/tools/search-panel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/ai.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/ai.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../telegram/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram/public/assets/landing/coutdown/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../telegram/public/assets/landing/coutdown/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram/public/assets/landing/coutdown/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../telegram/public/assets/landing/coutdown/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram/public/wc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../telegram/resources/views/layouts/landing.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../telegram/resources/views/layouts/landing.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="neededFiles" />
+    </order>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/therobfonz/laravel-mandrill-driver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/mercadopago/dx-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/legacy-factories" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/srmklive/paypal" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-crt-php" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/wildbit/swiftmailer-postmark" />
+      <path value="$PROJECT_DIR$/vendor/joedixon/laravel-translation" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/vendor/mailchimp/transactional" />
+      <path value="$PROJECT_DIR$/vendor/spatie/backtrace" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/ignition" />
+      <path value="$PROJECT_DIR$/vendor/spatie/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/james-heinrich/getid3" />
+      <path value="$PROJECT_DIR$/vendor/owen-oj/laravel-getid3" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2LoZOqcbJjN8Mz3AzOX9RhMSITq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegram" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a82ef5aa-bb4f-4aaa-88fb-a39c9e276af5" name="Default Changelist" comment="" />
+      <created>1676539366532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676539366532</updated>
+      <workItem from="1676539369015" duration="20000" />
+      <workItem from="1676539426158" duration="10000" />
+      <workItem from="1676539448287" duration="11192000" />
+      <workItem from="1676702155036" duration="7803000" />
+      <workItem from="1676711180478" duration="15167000" />
+      <workItem from="1676744099819" duration="336000" />
+      <workItem from="1676785900199" duration="21647000" />
+      <workItem from="1676881656818" duration="8331000" />
+      <workItem from="1677051348268" duration="13582000" />
+      <workItem from="1677131036713" duration="11551000" />
+      <workItem from="1677304750562" duration="7827000" />
+      <workItem from="1677390705761" duration="9838000" />
+      <workItem from="1677418629098" duration="2795000" />
+      <workItem from="1677483018559" duration="8080000" />
+      <workItem from="1677754523171" duration="3111000" />
+      <workItem from="1677907970660" duration="13074000" />
+      <workItem from="1677996646737" duration="18304000" />
+      <workItem from="1678025005639" duration="1057000" />
+      <workItem from="1678031088385" duration="1056000" />
+      <workItem from="1678082845966" duration="20541000" />
+      <workItem from="1678122154463" duration="83000" />
+      <workItem from="1678169416538" duration="19178000" />
+      <workItem from="1678207768383" duration="153000" />
+      <workItem from="1678342070867" duration="18796000" />
+      <workItem from="1678377244522" duration="10395000" />
+      <workItem from="1678392771431" duration="151000" />
+      <workItem from="1678516289254" duration="25075000" />
+      <workItem from="1678544416094" duration="2886000" />
+      <workItem from="1678562406551" duration="637000" />
+      <workItem from="1678598466311" duration="11858000" />
+      <workItem from="1678690146052" duration="16892000" />
+      <workItem from="1678772098762" duration="20139000" />
+      <workItem from="1678801714509" duration="192000" />
+      <workItem from="1678872891758" duration="3733000" />
+      <workItem from="1678888379001" duration="732000" />
+      <workItem from="1678946105206" duration="4908000" />
+      <workItem from="1679121630793" duration="5551000" />
+      <workItem from="1679127844718" duration="10867000" />
+      <workItem from="1679234854982" duration="5413000" />
+      <workItem from="1679290608990" duration="3791000" />
+      <workItem from="1679301045819" duration="9810000" />
+      <workItem from="1679328860185" duration="6635000" />
+      <workItem from="1679374400217" duration="18454000" />
+      <workItem from="1679424146381" duration="282000" />
+      <workItem from="1679425437258" duration="5158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="267" width="524" height="497" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1679427918365">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="696" y="267" width="524" height="497" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1679427918365" />
+    <state x="525" y="54" width="865" height="934" key="CommitChangelistDialog2" timestamp="1677488548695">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="525" y="54" width="865" height="934" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1677488548695" />
+    <state x="746" y="273" width="424" height="497" key="FileChooserDialogImpl" timestamp="1676539490531">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="746" y="273" width="424" height="497" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1676539490531" />
+    <state x="452" y="150" width="1016" height="743" key="SettingsEditor" timestamp="1676539648609">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="452" y="150" width="1016" height="743" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1676539648609" />
+    <state width="571" height="446" key="SwitcherDM" timestamp="1678527760896">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="571" height="446" key="SwitcherDM/0.0.1920.1032@0.0.1920.1032" timestamp="1678527760896" />
+    <state x="448" y="-6" width="1020" height="828" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1679389865899">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="448" y="-6" width="1020" height="828" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1679389865899" />
+    <state x="730" y="429" width="459" height="173" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1679140418387">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="730" y="429" width="459" height="173" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1679140418387" />
+    <state x="606" y="224" width="771" height="578" key="find.popup" timestamp="1679304917169">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="606" y="224" width="771" height="578" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1679304917169" />
+    <state x="609" y="225" width="700" height="530" key="recent.locations.popup" timestamp="1678600952850">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="609" y="225" width="700" height="530" key="recent.locations.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1678600952850" />
+    <state x="624" y="230" width="672" height="677" key="run.anything.popup" timestamp="1679428092358">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="624" y="230" width="672" height="677" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1679428092358" />
+    <state x="624" y="152" width="672" height="676" key="search.everywhere.popup" timestamp="1679301984049">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="624" y="152" width="672" height="676" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1679301984049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/member/payment/usage-log/stat.blade.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/member/settings/general-settings.blade.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/member/settings/general-settings.blade.php</url>
+          <line>74</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/openai/tools/search-panel.blade.php</url>
+          <line>196</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Home.php</url>
+          <line>668</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Home" />
+            <option name="methodName" value="get_payment_validity_data" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Home.php</url>
+          <line>438</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Home" />
+            <option name="methodName" value="check_usage" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>67</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="account_action" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>149</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="buy_package" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>760</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="list_payment_api_log_data" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>135</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="select_package" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>1856</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="manual_payment_reject" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>869</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="payment_settings" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Template.php</url>
+          <line>495</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Template" />
+            <option name="methodName" value="delete_template" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Template.php</url>
+          <line>195</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Template" />
+            <option name="methodName" value="upload_input_media" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Agency.php</url>
+          <line>322</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Agency" />
+            <option name="methodName" value="upload_media" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Template.php</url>
+          <line>170</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Template" />
+            <option name="methodName" value="download_text" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Template.php</url>
+          <line>362</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Template" />
+            <option name="methodName" value="list_template_data" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Agency.php</url>
+          <line>292</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Agency" />
+            <option name="methodName" value="submit_agency_landing_form_data" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Subscription.php</url>
+          <line>366</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Subscription" />
+            <option name="methodName" value="save_user" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Subscription.php</url>
+          <line>357</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Subscription" />
+            <option name="methodName" value="create_user" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Subscription.php</url>
+          <line>462</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Subscription" />
+            <option name="methodName" value="update_user" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>1334</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="upsert_autoresponser_data" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Member.php</url>
+          <line>2249</line>
+          <properties>
+            <option name="className" value="\App\Http\Controllers\Member" />
+            <option name="methodName" value="paypal_subscription_cancel" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

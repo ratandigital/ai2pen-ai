@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="neededFiles" pattern="file[aipen]:app//*||file[aipen]:resources//*||file[aipen]:routes//*||file[telegram]:app//*||file[telegram]:resources//*||file[telegram]:routes//*" />
+</component>

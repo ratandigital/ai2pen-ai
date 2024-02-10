@@ -1,0 +1,12 @@
+This is based on an image and id request posted to alt.binaries.fonts by Wolfie2K7 on September 7, 2007. DrWho42 is the result of auto-digitizing with scanfont.
+
+The image (included with this package) is of an alphabet used in the 7th episode of Series 3 of Doctor Who, named "42" and first broadcast in the UK on 19 May 2007.
+
+The letters Q, X, and Z were not in the image, and are the creations of my imagination, as are the pseudo-smallcaps that constitute the lower case.
+
+It's clear that the alphabet was based on Vic Feiger's free stencil font, "Major Snafu". DrWho42 would probably have turned out better if I'd gone to the original source. Maybe next time.
+
+For some reason, FontLab won't create an .otf version, so only Truetype and Type 1 are included.
+
+ - Character
+   September 23, 2007

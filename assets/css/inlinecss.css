@@ -1,0 +1,358 @@
+/*Dashboard */
+
+#card card-icon-bg-md border-primary box-shadow{
+    min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;
+  
+  }
+#card_card-icon-bg-md_border-primary_box-shadow{
+    min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;
+  
+  }
+  
+#card-body bg-light-purple ps-4 pe-2{
+  border-radius:10px;
+}
+#card-body_bg-light-purple_ps-4_pe-2{
+  border-radius:10px;
+}
+
+.block-head span:first-child { margin-right: 20px;}
+.block-head span {font-size: 15px;}
+.first-block-head h4{display: inline;}
+.first-block-head h4 i {font-size: 16px;}
+
+.link_div_class{display: none;}
+
+/*withdrawal-requests.blade */
+.pagination_div .pagination { justify-content: center !important; }
+.block_head {height: 100px;width: 100%;background: var(--blue);border-top-right-radius: 5px;border-top-left-radius: 5px;}
+.method_info span {margin: 0 auto;width: 100px;height: 100px;text-align: center;border-radius: 50%;margin-top: -65px;background: #fff;}
+.method_info span i {font-size: 50px;line-height:85px;}
+.details_section { border: 0.5px solid #eee; }
+.reques_info_body {line-height:24px !important;}
+.reques_info_body li {border: 0;padding:5px 15px;}
+.reques_info_body li .amount {font-size:18px;color:#000;font-weight: bold;}
+.info_sec button {padding: 9px;border-radius: 3px;width:30%;margin-top:0;}
+.request_method { margin-top: -30px;margin-bottom:12px;font-weight:600;font-size:16px;}
+
+#withdrawal_account{
+  width:100% !important;
+}
+  
+
+#method_type{
+  width:100%;
+}
+
+#paypal_email_div{
+  display: none;
+}
+
+#bank_acc_div{
+  display: none;
+}
+
+#bank_acc_no{
+  height: 100px !important;
+}
+
+#signup_sec_div_common{
+  display: none;
+}
+
+#payment_sec_div_common{
+  display: none;
+}
+
+
+#commission_section{
+  display: none;
+}
+
+#signup_sec_div{
+  display: none;
+}
+
+#payment_sec_div{
+  display: none;
+}
+
+#fixed_amount_div{
+  display: none;
+}
+
+#percentage_div{
+  display: none;
+}
+
+#card_id{
+  box-shadow: none !important;
+}
+
+#img-fluid_id{
+  height: 300px;
+}
+
+#ud-text-white ud-bg-primary mt-4 py-3{
+  background: rgb(139 92 246 / var(--tw-bg-opacity)) !important;
+}
+
+.comment-pagination li{padding:0 !important;}
+
+a:hover { color: unset !important }
+
+#ud-w-full_id{
+  color: #000 !important;
+}
+
+#rounded-circle_id{
+  width: 40px;height: 40px;max-width: 40px;
+}
+
+p{margin-bottom: 20px;}
+
+#ul_id{
+  list-style-type:circle;
+}
+
+#fa-book-reader_id{
+  font-size: 30px;
+}
+
+#fa-video text-white_id{
+  background: #8B5CF6;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 2.3;
+  border-radius: 30px;
+  font-size: 14px;
+}
+#fa-video_text-white_id{
+  background: #8B5CF6;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 2.3;
+  border-radius: 30px;
+  font-size: 14px;
+}
+#fa-fire_id{
+  background: #8B5CF6;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 2.3;
+  border-radius: 30px;
+  font-size: 14px;
+}
+
+#card-body_id{
+  min-height: 210px;
+}
+
+#card-icon-bg_id{
+  min-height: 0;border-style: dashed;border-width: .5px;border-radius: 10px;
+}
+
+#card-bod_id{
+  min-height: 0px;border-radius:10px;
+}
+
+#fas_fa-circle_text-white{
+  animation: blinker 2s linear infinite;
+}
+
+#card-card-icon-bg-md_box-shado{
+  min-height: 0;border-style: dashed;border-width: .5px;border-radius: 10px;
+}
+
+#card-body-bg-white-ps-4-p{
+  min-height: 0px;border-radius:10px;
+}
+
+#fas-fa-mobile-text-white-f{
+  animation: blinker 2s linear infinite;
+}
+
+#card-card-icon-bg-md-b{
+  min-height: 0;border-style: dashed;border-width: .5px;border-radius: 10px;
+}
+
+#card-body_bg-white_ps-4_pe{
+  min-height: 0px;border-radius:10px;
+}
+
+#fas-fa-laptop-te{
+  animation: blinker 2s linear infinite;
+}
+
+#session_info{
+  height: 537px;overflow: auto;
+}
+
+#liveUsersLists{
+  height: 320px;overflow: auto;
+}
+
+.custom_error{
+  display: none;
+}
+
+#card-body-idd_id{
+  height: 320px;overflow: auto;
+}
+
+#card-body_id-id{
+  height: 320px;
+}
+
+#progress_mb-{
+  height: 14px;
+}
+
+
+#video_session_information{
+  display: none;
+}
+
+#card_mb-3_domain-car{
+  max-width: 540px;
+}
+
+#tech-body-post{
+  display: none;
+}
+
+#wordpress-post{
+  display: none;
+}
+
+#html-post{
+  display: none;
+}
+
+#modal-dialog_idd{
+  min-width: 600px;
+}
+
+#installation-method{
+  display: none;
+}
+
+#tech-body{
+  display: none;
+}
+
+
+#wordpress{
+  display: none;
+}
+
+#html{
+  display: none;
+}
+
+#text-cen_id{
+  display: none;
+}
+
+#col-12_col-md-4_offset-m{
+  display: none;
+}
+
+#image_holder{
+  display: none;
+}
+
+#scroll_image{
+  display: none;
+}
+
+.dropzone .dz-message{margin:2.4em !important}
+
+#additional-info{
+  height: 210px;
+}
+
+#cloud-upload-a{
+  font-size: 35px;color: var(--blue);
+}
+
+#span-id_id{
+  font-size: 20px;
+}
+
+#a-times-circ{
+  font-size: 14px;
+}
+
+#rejected-reason{
+  height: 200px;
+}
+
+#mp-spinner{
+  position: absolute;top: 0;left: 0;width: 100%;height: 100%;background: #ffffff;
+}
+
+#spanid_id{
+  font-size: 20px;
+}
+#fa-c_loud-u{
+  font-size: 35px;color: var(--blue);
+}
+
+#card_card-ic{
+  min-height: 425px;
+}
+
+#me_2_id{
+  border:1px solid #dee2e6;
+}
+
+#me_2_img_id{
+  border:1px solid #dee2e6;
+}
+
+#v-pills-tab{
+  position: sticky;top:15px;
+}
+
+#loud-upl{
+  font-size: 35px;color: #6777ef;
+}
+
+#spn_id{
+  font-size: 20px;
+}
+
+#myTab{
+  overflow-y: hidden;overflow-x:auto;height:80px;
+}
+
+#addOrUpdate{
+  display: none;
+}
+
+#th_id-id{
+  min-width: 90px;
+}
+
+
+#custom_tooltip_id{
+  display: none;
+}
+
+#ext-cent{
+  display: none;
+}
+.cus_error{
+  background-color: #e9ecef;height: 350px;
+}
+
+
+
+
+
+
+
